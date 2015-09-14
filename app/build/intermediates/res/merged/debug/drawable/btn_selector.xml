@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:state_selected="true" 
+        android:drawable="@drawable/btn_selected"/>
+    <item android:drawable="@drawable/btn_normal" />
+</selector>
+<!-- From: file:/C:/Android/Library/android-education-project/Sample7Fragment1/app/src/main/res/drawable/btn_selector.xml -->
